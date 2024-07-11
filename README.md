@@ -20,11 +20,15 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 ## Ansible
 
-- Configure docker container with Ansible
+- Configure Docker container with Ansible
 [Github](https://github.com/Frunza/configure-docker-container-with-ansible) [Medium](https://blog.devops.dev/configure-docker-container-with-ansible-e7c7623a531d)
 
 - Respond with environment value in Ansible
 [Github](https://github.com/Frunza/respond-with-environment-variable-in-ansible) [Medium](https://medium.com/@frunzasamuel/respond-with-environment-value-in-ansible-536d0facc081)
+
+## Terraform
+
+Configure Docker container with Terraform [Github](https://github.com/Frunza/configure-docker-container-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-cbc1a36d97e0)
 
 ## Kubernetes
 
