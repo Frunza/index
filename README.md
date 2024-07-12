@@ -18,6 +18,9 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 - Run GitLab jobs with updated syntax for deprecated only/except
 [Github](https://github.com/Frunza/run-gitlab-jobs-with-updated-syntax-for-deprecated-only-except) [Medium](https://medium.com/@frunzasamuel/run-gitlab-jobs-with-updated-syntax-for-deprecated-only-except-e40cb6be5f96)
 
+- Configure protected branches in GitLab with Terraform
+[Github](https://github.com/Frunza/configure-protected-branches-in-gitlab-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-protected-branches-in-gitlab-with-terraform-f1ba872b19cf)
+
 ## Ansible
 
 - Configure Docker container with Ansible
