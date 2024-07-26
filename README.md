@@ -21,6 +21,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 - Configure protected branches in GitLab with Terraform
 [Github](https://github.com/Frunza/configure-protected-branches-in-gitlab-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-protected-branches-in-gitlab-with-terraform-f1ba872b19cf)
 
+- Add GitLab scheduler with Terraform [Github](https://github.com/Frunza/add-gitlab-scheduler-with-terraform) [Medium](https://medium.com/@frunzasamuel/add-gitlab-scheduler-with-terraform-7b1e67ddc668)
+
 ## Ansible
 
 - Configure Docker container with Ansible
