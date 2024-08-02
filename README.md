@@ -41,3 +41,7 @@ Configure Docker container with Terraform [Github](https://github.com/Frunza/con
 [Github](https://github.com/Frunza/edit-kubeconfig-files) [Medium](https://medium.com/@frunzasamuel/edit-kubeconfig-files-57b46b012506)
 
 - Configure Argo CD in a Kubernetes cluster with Terraform [Github](https://github.com/Frunza/configure-argo-cd-in-a-kubernetes-cluster-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-argo-cd-in-a-kubernetes-cluster-with-terraform-c0aa4b9f75db)
+
+## Security
+
+- Pin NPM dependencies [Github](https://github.com/Frunza/pin-npm-dependencies) [Medium](https://medium.com/@frunzasamuel/pin-npm-dependencies-4c163e2c8090)
