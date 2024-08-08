@@ -45,3 +45,4 @@ Configure Docker container with Terraform [Github](https://github.com/Frunza/con
 ## Security
 
 - Pin NPM dependencies [Github](https://github.com/Frunza/pin-npm-dependencies) [Medium](https://medium.com/@frunzasamuel/pin-npm-dependencies-4c163e2c8090)
+- Pin Go dependencies [Github](https://github.com/Frunza/pin-go-dependencies) [Medium](https://medium.com/@frunzasamuel/pin-go-dependencies-5b1fdfab2ce6)
