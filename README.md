@@ -50,3 +50,4 @@ Configure Docker container with Terraform [Github](https://github.com/Frunza/con
 ## Tools
 
 - Devbox [Github](https://github.com/Frunza/devbox) [Medium](https://medium.com/@frunzasamuel/devbox-e4a95fd4cf6e)
+- Enhanced shell [Github](https://github.com/Frunza/enhanced-shell) [Medium](https://medium.com/@frunzasamuel/enhanced-shell-e2268fb3e2be)
