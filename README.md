@@ -34,6 +34,7 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 ## Terraform
 
 Configure Docker container with Terraform [Github](https://github.com/Frunza/configure-docker-container-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-cbc1a36d97e0)
+Configure docker container with Terraform and volume mount [Github](https://github.com/Frunza/configure-docker-container-with-terraform-and-volume-mount) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-and-volume-mount-112db3b7cdf3)
 
 ## Kubernetes
 
