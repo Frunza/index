@@ -10,6 +10,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 - Docker CLI inside Docker container
 [Github](https://github.com/Frunza/docker-cli-inside-docker-container) [Medium](https://medium.com/@frunzasamuel/docker-cli-inside-docker-container-6adb59fe0f12)
 
+- Docker multistage builds [Github](https://github.com/Frunza/docker-multistage-builds) [Medium](https://medium.com/@frunzasamuel/docker-multistage-builds-2edf677287d1)
+
 ## GitLab CI
 
 - Scripting in .gitlab-ci.yml
