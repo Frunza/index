@@ -33,6 +33,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 - Respond with environment value in Ansible
 [Github](https://github.com/Frunza/respond-with-environment-variable-in-ansible) [Medium](https://medium.com/@frunzasamuel/respond-with-environment-value-in-ansible-536d0facc081)
 
+- Ansible variables [Github](https://github.com/Frunza/ansible-variables) [Medium](https://medium.com/@frunzasamuel/ansible-variables-aa8640dd3b33)
+
 ## Terraform
 
 Configure Docker container with Terraform [Github](https://github.com/Frunza/configure-docker-container-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-cbc1a36d97e0)
