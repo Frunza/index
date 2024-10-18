@@ -35,6 +35,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Ansible variables [Github](https://github.com/Frunza/ansible-variables) [Medium](https://medium.com/@frunzasamuel/ansible-variables-aa8640dd3b33)
 
+- Ansible volume mounts [Github](https://github.com/Frunza/ansible-volume-mounts) [Medium](https://medium.com/@frunzasamuel/ansible-volume-mounts-98079929df68)
+
 ## Terraform
 
 Configure Docker container with Terraform [Github](https://github.com/Frunza/configure-docker-container-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-cbc1a36d97e0)
