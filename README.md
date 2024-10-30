@@ -37,6 +37,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Ansible volume mounts [Github](https://github.com/Frunza/ansible-volume-mounts) [Medium](https://medium.com/@frunzasamuel/ansible-volume-mounts-98079929df68)
 
+- Pin Ansible roles and collections [Github](https://github.com/Frunza/pin-ansible-roles-and-collections) [Medium](https://medium.com/@frunzasamuel/pin-ansible-roles-and-collections-e8d123300388)
+
 ## Terraform
 
 Configure Docker container with Terraform [Github](https://github.com/Frunza/configure-docker-container-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-cbc1a36d97e0)
