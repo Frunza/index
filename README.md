@@ -7,6 +7,9 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 - Configure docker container with SSH access
 [Github](https://github.com/Frunza/configure-docker-container-with-ssh-access) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-ssh-access-dbf18efa3b93)
 
+- Configure docker container with SSH access
+[Github](https://github.com/Frunza/second-ssh-key-for-git-in-docker-container) [Medium](https://medium.com/@frunzasamuel/second-ssh-key-for-git-in-docker-container-520cdfd75c97)
+
 - Docker CLI inside Docker container
 [Github](https://github.com/Frunza/docker-cli-inside-docker-container) [Medium](https://medium.com/@frunzasamuel/docker-cli-inside-docker-container-6adb59fe0f12)
 
