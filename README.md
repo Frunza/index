@@ -63,3 +63,6 @@ Configure docker container with Terraform and volume mount [Github](https://gith
 
 - Devbox [Github](https://github.com/Frunza/devbox) [Medium](https://medium.com/@frunzasamuel/devbox-e4a95fd4cf6e)
 - Enhanced shell [Github](https://github.com/Frunza/enhanced-shell) [Medium](https://medium.com/@frunzasamuel/enhanced-shell-e2268fb3e2be)
+
+## Misc
+- Connect to a MongoDB database running inside a container and query data [Github](https://github.com/Frunza/connect-to-a-mongodb-database-running-inside-a-container-and-query-data) [Medium](https://medium.com/@frunzasamuel/connect-to-a-mongodb-database-running-inside-a-container-and-query-data-26987284f5cc)
