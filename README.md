@@ -60,12 +60,16 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 ## Security
 
 - Pin NPM dependencies [Github](https://github.com/Frunza/pin-npm-dependencies) [Medium](https://medium.com/@frunzasamuel/pin-npm-dependencies-4c163e2c8090)
+
 - Pin Go dependencies [Github](https://github.com/Frunza/pin-go-dependencies) [Medium](https://medium.com/@frunzasamuel/pin-go-dependencies-5b1fdfab2ce6)
 
 ## Tools
 
 - Devbox [Github](https://github.com/Frunza/devbox) [Medium](https://medium.com/@frunzasamuel/devbox-e4a95fd4cf6e)
+
 - Enhanced shell [Github](https://github.com/Frunza/enhanced-shell) [Medium](https://medium.com/@frunzasamuel/enhanced-shell-e2268fb3e2be)
+
+- Harbor replication with Terraform [Github](https://github.com/Frunza/harbor-replication-with-terraform) [Medium](https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3)
 
 ## Misc
 - Connect to a MongoDB database running inside a container and query data [Github](https://github.com/Frunza/connect-to-a-mongodb-database-running-inside-a-container-and-query-data) [Medium](https://medium.com/@frunzasamuel/connect-to-a-mongodb-database-running-inside-a-container-and-query-data-26987284f5cc)
