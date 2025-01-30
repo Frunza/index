@@ -50,6 +50,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Create Terraform module [Github](https://github.com/Frunza/create-terraform-module) [Medium](https://medium.com/@frunzasamuel/create-terraform-module-729fc355533d)
 
+- Working with your own public terraform module [Github](https://github.com/Frunza/working-with-your-own-public-terraform-module) [Medium](https://medium.com/@frunzasamuel/working-with-your-own-public-terraform-module-02e115546973)
+
 ## Kubernetes
 
 - Edit kubeconfig files
