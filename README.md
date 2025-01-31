@@ -52,6 +52,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Working with your own public terraform module [Github](https://github.com/Frunza/working-with-your-own-public-terraform-module) [Medium](https://medium.com/@frunzasamuel/working-with-your-own-public-terraform-module-02e115546973)
 
+- Update placeholders in Terraform files [Github](https://github.com/Frunza/update-placeholders-in-terraform-files) [Medium](https://medium.com/@frunzasamuel/update-placeholders-in-terraform-files-d9cdd818265a)
+
 ## Kubernetes
 
 - Edit kubeconfig files
