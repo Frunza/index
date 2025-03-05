@@ -61,6 +61,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Configure Argo CD in a Kubernetes cluster with Terraform [Github](https://github.com/Frunza/configure-argo-cd-in-a-kubernetes-cluster-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-argo-cd-in-a-kubernetes-cluster-with-terraform-c0aa4b9f75db)
 
+- Setup ArgoCD in k8s fully automated [Github](https://github.com/Frunza/setup-argocd-in-k8s-fully-automated) [Medium](https://medium.com/@frunzasamuel/setup-argocd-in-k8s-fully-automated-fcbc19d876db)
+
 ## Security
 
 - Pin NPM dependencies [Github](https://github.com/Frunza/pin-npm-dependencies) [Medium](https://medium.com/@frunzasamuel/pin-npm-dependencies-4c163e2c8090)
