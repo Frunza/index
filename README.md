@@ -63,6 +63,10 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Setup ArgoCD in k8s fully automated [Github](https://github.com/Frunza/setup-argocd-in-k8s-fully-automated) [Medium](https://medium.com/@frunzasamuel/setup-argocd-in-k8s-fully-automated-fcbc19d876db)
 
+## Azure
+
+- Configure cert-manager with AzureDNS in k8s [Github](https://github.com/Frunza/configure-cert-manager-with-azuredns-in-k8s) [Medium](https://medium.com/@frunzasamuel/configure-cert-manager-with-azuredns-in-k8s-8c9a9566adc0)
+
 ## Security
 
 - Pin NPM dependencies [Github](https://github.com/Frunza/pin-npm-dependencies) [Medium](https://medium.com/@frunzasamuel/pin-npm-dependencies-4c163e2c8090)
