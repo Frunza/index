@@ -63,6 +63,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Setup ArgoCD in k8s fully automated [Github](https://github.com/Frunza/setup-argocd-in-k8s-fully-automated) [Medium](https://medium.com/@frunzasamuel/setup-argocd-in-k8s-fully-automated-fcbc19d876db)
 
+- Provision more k8s apps with the same certificate using reflector [Github](https://github.com/Frunza/provision-more-k8s-apps-with-the-same-certificate-using-reflector) [Medium](https://medium.com/@frunzasamuel/provision-more-k8s-apps-with-the-same-certificate-using-reflector-e6177a3c7aa0)
+
 ## Azure
 
 - Create Azure certificate using certbot [Github](https://github.com/Frunza/create-azure-certificate-using-certbot) [Medium](https://medium.com/@frunzasamuel/create-azure-certificate-using-certbot-2c8a69a061af)
