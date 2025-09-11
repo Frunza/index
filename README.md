@@ -69,6 +69,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Create Azure certificate using certbot [Github](https://github.com/Frunza/create-azure-certificate-using-certbot) [Medium](https://medium.com/@frunzasamuel/create-azure-certificate-using-certbot-2c8a69a061af)
 
+- Create AKS cluster with a testing application via Terraform [Github](https://github.com/Frunza/create-aks-cluster-with-a-testing-application-via-terraform) [Medium](https://medium.com/@frunzasamuel/create-aks-cluster-with-a-testing-application-via-terraform-b3479816c136)
+
 - Configure cert-manager with AzureDNS in k8s [Github](https://github.com/Frunza/configure-cert-manager-with-azuredns-in-k8s) [Medium](https://medium.com/@frunzasamuel/configure-cert-manager-with-azuredns-in-k8s-8c9a9566adc0)
 
 - Prepare a k8s cluster fully automated with Argo CD configuration for infrastructure and more apps [Github](https://github.com/Frunza/prepare-a-k8s-cluster-fully-automated-with-argocd-configuration-for-infrastructure-and-more-apps) [Medium](https://medium.com/@frunzasamuel/prepare-a-k8s-cluster-fully-automated-with-argo-cd-configuration-for-infrastructure-and-more-apps-d346a8d54283)
