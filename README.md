@@ -83,6 +83,10 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Pin Go dependencies [Github](https://github.com/Frunza/pin-go-dependencies) [Medium](https://medium.com/@frunzasamuel/pin-go-dependencies-5b1fdfab2ce6)
 
+## AWS
+
+- Simple way to store Terraform state files in AWS s3 [Github](https://github.com/Frunza/simple-way-to-store-terraform-state-files-in-aws-s3) [Medium](https://medium.com/@frunzasamuel/simple-way-to-store-terraform-state-files-in-aws-s3-96a92fac5e88)
+
 ## Tools
 
 - Devbox [Github](https://github.com/Frunza/devbox) [Medium](https://medium.com/@frunzasamuel/devbox-e4a95fd4cf6e)
