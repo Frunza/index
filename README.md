@@ -65,6 +65,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Provision more k8s apps with the same certificate using reflector [Github](https://github.com/Frunza/provision-more-k8s-apps-with-the-same-certificate-using-reflector) [Medium](https://medium.com/@frunzasamuel/provision-more-k8s-apps-with-the-same-certificate-using-reflector-e6177a3c7aa0)
 
+- Test limits and requests in AKS [Github](https://github.com/Frunza/test-limits-and-requests-in-aks) [Medium](https://medium.com/@frunzasamuel/test-limits-and-requests-in-aks-b32a8c1ee651)
+
 ## Azure
 
 - Create Azure certificate using certbot [Github](https://github.com/Frunza/create-azure-certificate-using-certbot) [Medium](https://medium.com/@frunzasamuel/create-azure-certificate-using-certbot-2c8a69a061af)
