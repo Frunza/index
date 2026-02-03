@@ -9,8 +9,6 @@ Generate README.md from entries.json.
 - Run this script with the following command: `python generate.py`
 """
 
-from __future__ import annotations
-
 import json
 from pathlib import Path
 from typing import Dict, List, Any
