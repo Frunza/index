@@ -1,0 +1,307 @@
+[
+  {
+    "title": "Configure docker container with SSH access",
+    "section": "Docker",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/configure-docker-container-with-ssh-access" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/configure-docker-container-with-ssh-access-dbf18efa3b93" }
+    ]
+  },
+  {
+    "title": "Second SSH Key for git in docker container",
+    "section": "Docker",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/second-ssh-key-for-git-in-docker-container" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/second-ssh-key-for-git-in-docker-container-520cdfd75c97" }
+    ]
+  },
+  {
+    "title": "Docker CLI inside Docker container",
+    "section": "Docker",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/docker-cli-inside-docker-container" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/docker-cli-inside-docker-container-6adb59fe0f12" }
+    ]
+  },
+  {
+    "title": "Docker multistage builds",
+    "section": "Docker",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/docker-multistage-builds" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/docker-multistage-builds-2edf677287d1" }
+    ]
+  },
+
+  {
+    "title": "Scripting in .gitlab-ci.yml",
+    "section": "GitLab CI",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/scripting-in-gitlab-ci.yml" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/scripting-in-gitlab-ci-yml-2778049b8d49" }
+    ]
+  },
+  {
+    "title": "Run GitLab jobs with updated syntax for deprecated only/except",
+    "section": "GitLab CI",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/run-gitlab-jobs-with-updated-syntax-for-deprecated-only-except" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/run-gitlab-jobs-with-updated-syntax-for-deprecated-only-except-e40cb6be5f96" }
+    ]
+  },
+  {
+    "title": "Configure protected branches in GitLab with Terraform",
+    "section": "GitLab CI",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/configure-protected-branches-in-gitlab-with-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/configure-protected-branches-in-gitlab-with-terraform-f1ba872b19cf" }
+    ]
+  },
+  {
+    "title": "Add GitLab scheduler with Terraform",
+    "section": "GitLab CI",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/add-gitlab-scheduler-with-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/add-gitlab-scheduler-with-terraform-7b1e67ddc668" }
+    ]
+  },
+
+  {
+    "title": "Configure Docker container with Ansible",
+    "section": "Ansible",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/configure-docker-container-with-ansible" },
+      { "label": "Medium", "url": "https://blog.devops.dev/configure-docker-container-with-ansible-e7c7623a531d" }
+    ]
+  },
+  {
+    "title": "Respond with environment value in Ansible",
+    "section": "Ansible",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/respond-with-environment-variable-in-ansible" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/respond-with-environment-value-in-ansible-536d0facc081" }
+    ]
+  },
+  {
+    "title": "Ansible variables",
+    "section": "Ansible",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/ansible-variables" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/ansible-variables-aa8640dd3b33" }
+    ]
+  },
+  {
+    "title": "Ansible volume mounts",
+    "section": "Ansible",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/ansible-volume-mounts" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/ansible-volume-mounts-98079929df68" }
+    ]
+  },
+  {
+    "title": "Pin Ansible roles and collections",
+    "section": "Ansible",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/pin-ansible-roles-and-collections" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/pin-ansible-roles-and-collections-e8d123300388" }
+    ]
+  },
+
+  {
+    "title": "Configure Docker container with Terraform",
+    "section": "Terraform",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/configure-docker-container-with-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-cbc1a36d97e0" }
+    ]
+  },
+  {
+    "title": "Configure docker container with Terraform and volume mount",
+    "section": "Terraform",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/configure-docker-container-with-terraform-and-volume-mount" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-and-volume-mount-112db3b7cdf3" }
+    ]
+  },
+  {
+    "title": "Create Terraform module",
+    "section": "Terraform",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/create-terraform-module" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/create-terraform-module-729fc355533d" }
+    ]
+  },
+  {
+    "title": "Working with your own public terraform module",
+    "section": "Terraform",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/working-with-your-own-public-terraform-module" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/working-with-your-own-public-terraform-module-02e115546973" }
+    ]
+  },
+  {
+    "title": "Update placeholders in Terraform files",
+    "section": "Terraform",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/update-placeholders-in-terraform-files" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/update-placeholders-in-terraform-files-d9cdd818265a" }
+    ]
+  },
+
+  {
+    "title": "Edit kubeconfig files",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/edit-kubeconfig-files" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/edit-kubeconfig-files-57b46b012506" }
+    ]
+  },
+  {
+    "title": "Configure Argo CD in a Kubernetes cluster with Terraform",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/configure-argo-cd-in-a-kubernetes-cluster-with-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/configure-argo-cd-in-a-kubernetes-cluster-with-terraform-c0aa4b9f75db" }
+    ]
+  },
+  {
+    "title": "Setup ArgoCD in k8s fully automated",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/setup-argocd-in-k8s-fully-automated" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/setup-argocd-in-k8s-fully-automated-fcbc19d876db" }
+    ]
+  },
+  {
+    "title": "Provision more k8s apps with the same certificate using reflector",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/provision-more-k8s-apps-with-the-same-certificate-using-reflector" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/provision-more-k8s-apps-with-the-same-certificate-using-reflector-e6177a3c7aa0" }
+    ]
+  },
+  {
+    "title": "Test limits and requests in AKS",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/test-limits-and-requests-in-aks" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/test-limits-and-requests-in-aks-b32a8c1ee651" }
+    ]
+  },
+  {
+    "title": "k8s in air-gapped environment",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-in-air-gapped-environment" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-in-air-gapped-environment-8f20b51aaa2d" }
+    ]
+  },
+
+  {
+    "title": "Create Azure certificate using certbot",
+    "section": "Azure",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/create-azure-certificate-using-certbot" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/create-azure-certificate-using-certbot-2c8a69a061af" }
+    ]
+  },
+  {
+    "title": "Create AKS cluster with a testing application via Terraform",
+    "section": "Azure",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/create-aks-cluster-with-a-testing-application-via-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/create-aks-cluster-with-a-testing-application-via-terraform-b3479816c136" }
+    ]
+  },
+  {
+    "title": "Protect a k8s app with Azure SSO in AKS",
+    "section": "Azure",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/protect-a-k8s-app-with-azure-sso-in-aks" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/protect-a-k8s-app-with-azure-sso-in-aks-5755b49614c9" }
+    ]
+  },
+  {
+    "title": "Configure cert-manager with AzureDNS in k8s",
+    "section": "Azure",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/configure-cert-manager-with-azuredns-in-k8s" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/configure-cert-manager-with-azuredns-in-k8s-8c9a9566adc0" }
+    ]
+  },
+  {
+    "title": "Prepare a k8s cluster fully automated with Argo CD configuration for infrastructure and more apps",
+    "section": "Azure",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/prepare-a-k8s-cluster-fully-automated-with-argocd-configuration-for-infrastructure-and-more-apps" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/prepare-a-k8s-cluster-fully-automated-with-argo-cd-configuration-for-infrastructure-and-more-apps-d346a8d54283" }
+    ]
+  },
+
+  {
+    "title": "Pin NPM dependencies",
+    "section": "Security",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/pin-npm-dependencies" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/pin-npm-dependencies-4c163e2c8090" }
+    ]
+  },
+  {
+    "title": "Pin Go dependencies",
+    "section": "Security",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/pin-go-dependencies" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/pin-go-dependencies-5b1fdfab2ce6" }
+    ]
+  },
+
+  {
+    "title": "Simple way to store Terraform state files in AWS s3",
+    "section": "AWS",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/simple-way-to-store-terraform-state-files-in-aws-s3" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/simple-way-to-store-terraform-state-files-in-aws-s3-96a92fac5e88" }
+    ]
+  },
+
+  {
+    "title": "Devbox",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/devbox" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/devbox-e4a95fd4cf6e" }
+    ]
+  },
+  {
+    "title": "Enhanced shell",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/enhanced-shell" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/enhanced-shell-e2268fb3e2be" }
+    ]
+  },
+  {
+    "title": "Harbor replication with Terraform",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/harbor-replication-with-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3" }
+    ]
+  },
+
+  {
+    "title": "Understanding certificates generated by certbot",
+    "section": "Misc",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/understanding-certificates-generated-by-certbot" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/understanding-certificates-generated-by-certbot-a677b6a9cef4" }
+    ]
+  },
+  {
+    "title": "Connect to a MongoDB database running inside a container and query data",
+    "section": "Misc",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/connect-to-a-mongodb-database-running-inside-a-container-and-query-data" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/connect-to-a-mongodb-database-running-inside-a-container-and-query-data-26987284f5cc" }
+    ]
+  }
+]
