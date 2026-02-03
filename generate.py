@@ -101,7 +101,6 @@ def generateReadme(entriesPath: Path, outPath: Path) -> None:
             title = entry["title"]
             linksLine = formatLinks(entry.get("links", []))
 
-            # Match your original style:
             # - bullet title line
             # - next line contains links
             # - blank line between entries
