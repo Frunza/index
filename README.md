@@ -67,6 +67,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Test limits and requests in AKS [Github](https://github.com/Frunza/test-limits-and-requests-in-aks) [Medium](https://medium.com/@frunzasamuel/test-limits-and-requests-in-aks-b32a8c1ee651)
 
+- k8s in air-gapped environment [Github](https://github.com/Frunza/k8s-in-air-gapped-environment) [Medium](https://medium.com/@frunzasamuel/k8s-in-air-gapped-environment-8f20b51aaa2d)
+
 ## Azure
 
 - Create Azure certificate using certbot [Github](https://github.com/Frunza/create-azure-certificate-using-certbot) [Medium](https://medium.com/@frunzasamuel/create-azure-certificate-using-certbot-2c8a69a061af)
