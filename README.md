@@ -50,6 +50,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Edit kubeconfig files [github](https://github.com/Frunza/edit-kubeconfig-files) [Medium](https://medium.com/@frunzasamuel/edit-kubeconfig-files-57b46b012506)
 
+- Improving k8s Control Plane Resilience with Practical Node Allocatable and Eviction Tuning [github](https://github.com/Frunza/improving-k8s-control-plane-resilience-with-practical-node-allocatable-and-eviction-tuning) [Medium](https://medium.com/@frunzasamuel/improving-k8s-control-plane-resilience-with-practical-node-allocatable-and-eviction-tuning-9ab27db49f1e)
+
 - Configure Argo CD in a Kubernetes cluster with Terraform [github](https://github.com/Frunza/configure-argo-cd-in-a-kubernetes-cluster-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-argo-cd-in-a-kubernetes-cluster-with-terraform-c0aa4b9f75db)
 
 - Setup ArgoCD in k8s fully automated [github](https://github.com/Frunza/setup-argocd-in-k8s-fully-automated) [Medium](https://medium.com/@frunzasamuel/setup-argocd-in-k8s-fully-automated-fcbc19d876db)
