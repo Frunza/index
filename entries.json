@@ -280,6 +280,14 @@
     ]
   },
   {
+    "title": "Helm basics",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/helm-basics" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/helm-basics-61d6858aec3a" }
+    ]
+  },
+  {
     "title": "Enhanced shell",
     "section": "Tools",
     "links": [
