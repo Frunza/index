@@ -288,6 +288,14 @@
     ]
   },
   {
+    "title": "Kustomize basics",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/kustomize-basics" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/kustomize-basics-5c5818232eb5" }
+    ]
+  },
+  {
     "title": "Enhanced shell",
     "section": "Tools",
     "links": [

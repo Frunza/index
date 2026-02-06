@@ -90,6 +90,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Helm basics [github](https://github.com/Frunza/helm-basics) [Medium](https://medium.com/@frunzasamuel/helm-basics-61d6858aec3a)
 
+- Kustomize basics [github](https://github.com/Frunza/kustomize-basics) [Medium](https://medium.com/@frunzasamuel/kustomize-basics-5c5818232eb5)
+
 - Enhanced shell [github](https://github.com/Frunza/enhanced-shell) [Medium](https://medium.com/@frunzasamuel/enhanced-shell-e2268fb3e2be)
 
 - Harbor replication with Terraform [github](https://github.com/Frunza/harbor-replication-with-terraform) [Medium](https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3)
