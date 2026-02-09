@@ -203,6 +203,14 @@
       { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-in-air-gapped-environment-8f20b51aaa2d" }
     ]
   },
+  {
+    "title": "k8s monitoring basics",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-monitoring-basics" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-monitoring-basics-9d8354c2f633" }
+    ]
+  },
 
   {
     "title": "Create Azure certificate using certbot",

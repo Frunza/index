@@ -62,6 +62,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - k8s in air-gapped environment [github](https://github.com/Frunza/k8s-in-air-gapped-environment) [Medium](https://medium.com/@frunzasamuel/k8s-in-air-gapped-environment-8f20b51aaa2d)
 
+- k8s monitoring basics [github](https://github.com/Frunza/k8s-monitoring-basics) [Medium](https://medium.com/@frunzasamuel/k8s-monitoring-basics-9d8354c2f633)
+
 ## Azure
 
 - Create Azure certificate using certbot [github](https://github.com/Frunza/create-azure-certificate-using-certbot) [Medium](https://medium.com/@frunzasamuel/create-azure-certificate-using-certbot-2c8a69a061af)
