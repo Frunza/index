@@ -4,4 +4,9 @@
 set -e
 
 docker build -t pythonunittests .
-docker-compose run --rm main
+
+if command -v docker-compose >/dev/null 2>&1; then
+  docker-compose run --rm main
+else
+  docker compose run --rm main
+fi
