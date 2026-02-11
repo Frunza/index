@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  main:
+    image: pythonunittests
+    network_mode: host
+    working_dir: /app
+    entrypoint: ["sh", "-c"]
+    command: ["python3 -m unittest discover -s ./unit-tests -p 'test_*.py'"]
