@@ -39,6 +39,7 @@ def check_url(url):
             """)
             
             response = page.goto(url, timeout=15000, wait_until='domcontentloaded')
+            page.wait_for_timeout(500)
             browser.close()
             
             return response.status < 400
@@ -72,7 +73,7 @@ class TestGenerateReadme(unittest.TestCase):
         self.assertGreater(len(urls), 0, "No URLs found in entries.json")
         
         broken_links = []
-        with ThreadPoolExecutor(max_workers=5) as executor:
+        with ThreadPoolExecutor(max_workers=1) as executor:
             future_to_url = {
                 executor.submit(check_url, item["url"]): item 
                 for item in urls
