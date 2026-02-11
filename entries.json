@@ -196,6 +196,14 @@
     ]
   },
   {
+    "title": "k8s RBAC basics",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-rbac-basics" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-rbac-basics-7e6edce08600" }
+    ]
+  },
+  {
     "title": "k8s in air-gapped environment",
     "section": "Kubernetes",
     "links": [
