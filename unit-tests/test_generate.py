@@ -39,7 +39,7 @@ def check_url(url):
             """)
             
             response = page.goto(url, timeout=15000, wait_until='domcontentloaded')
-            page.wait_for_timeout(500)
+            page.wait_for_timeout(2000)
             browser.close()
             
             return response.status < 400
