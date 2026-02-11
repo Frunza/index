@@ -156,6 +156,14 @@
     ]
   },
   {
+    "title": "k8s probes",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-probes" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-probes-4e6b66d239c2" }
+    ]
+  },
+  {
     "title": "Improving k8s Control Plane Resilience with Practical Node Allocatable and Eviction Tuning",
     "section": "Kubernetes",
     "links": [
