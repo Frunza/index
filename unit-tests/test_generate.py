@@ -1,7 +1,6 @@
 import unittest
 import json
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from playwright.sync_api import sync_playwright
 
 ENTRIES_FILE = Path("entries.json")
@@ -68,23 +67,15 @@ def get_all_urls_from_entries():
 class TestGenerateReadme(unittest.TestCase):
 
     def test_all_links_are_reachable(self):
-        """Verify all URLs in entries.json are accessible."""
         urls = get_all_urls_from_entries()
         self.assertGreater(len(urls), 0, "No URLs found in entries.json")
-        
+
         broken_links = []
-        with ThreadPoolExecutor(max_workers=1) as executor:
-            future_to_url = {
-                executor.submit(check_url, item["url"]): item 
-                for item in urls
-            }
-            
-            for future in as_completed(future_to_url):
-                item = future_to_url[future]
-                is_ok = future.result()
-                if not is_ok:
-                    broken_links.append(f"{item['context']}: {item['url']}")
-        
+        for item in urls:
+            is_ok = check_url(item["url"])
+            if not is_ok:
+                broken_links.append(f"{item['context']}: {item['url']}")
+
         if broken_links:
             self.fail(f"Found {len(broken_links)} broken link(s):\n" + "\n".join(broken_links))
 
