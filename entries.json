@@ -345,6 +345,14 @@
     ]
   },
   {
+    "title": "Unit testing in python",
+    "section": "Misc",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/unit-testing-in-python" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/unit-testing-in-python-cb831fb515ce" }
+    ]
+  },
+  {
     "title": "Connect to a MongoDB database running inside a container and query data",
     "section": "Misc",
     "links": [
