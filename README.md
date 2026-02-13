@@ -64,6 +64,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - k8s RBAC basics [github](https://github.com/Frunza/k8s-rbac-basics) [Medium](https://medium.com/@frunzasamuel/k8s-rbac-basics-7e6edce08600)
 
+- k8s horizontal pod autoscaler [github](https://github.com/Frunza/k8s-horizontal-pod-autoscaler) [Medium](https://medium.com/@frunzasamuel/k8s-horizontal-pod-autoscaler-8fd545d15ea6)
+
 - k8s in air-gapped environment [github](https://github.com/Frunza/k8s-in-air-gapped-environment) [Medium](https://medium.com/@frunzasamuel/k8s-in-air-gapped-environment-8f20b51aaa2d)
 
 - k8s monitoring basics [github](https://github.com/Frunza/k8s-monitoring-basics) [Medium](https://medium.com/@frunzasamuel/k8s-monitoring-basics-9d8354c2f633)

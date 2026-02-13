@@ -212,6 +212,14 @@
     ]
   },
   {
+    "title": "k8s horizontal pod autoscaler",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-horizontal-pod-autoscaler" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-horizontal-pod-autoscaler-8fd545d15ea6" }
+    ]
+  },
+  {
     "title": "k8s in air-gapped environment",
     "section": "Kubernetes",
     "links": [
