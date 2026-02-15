@@ -220,6 +220,14 @@
     ]
   },
   {
+    "title": "KEDA",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/keda" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/keda-18826a29d1dd" }
+    ]
+  },
+  {
     "title": "k8s in air-gapped environment",
     "section": "Kubernetes",
     "links": [

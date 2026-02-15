@@ -66,6 +66,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - k8s horizontal pod autoscaler [github](https://github.com/Frunza/k8s-horizontal-pod-autoscaler) [Medium](https://medium.com/@frunzasamuel/k8s-horizontal-pod-autoscaler-8fd545d15ea6)
 
+- KEDA [github](https://github.com/Frunza/keda) [Medium](https://medium.com/@frunzasamuel/keda-18826a29d1dd)
+
 - k8s in air-gapped environment [github](https://github.com/Frunza/k8s-in-air-gapped-environment) [Medium](https://medium.com/@frunzasamuel/k8s-in-air-gapped-environment-8f20b51aaa2d)
 
 - k8s monitoring basics [github](https://github.com/Frunza/k8s-monitoring-basics) [Medium](https://medium.com/@frunzasamuel/k8s-monitoring-basics-9d8354c2f633)
