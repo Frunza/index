@@ -220,14 +220,6 @@
     ]
   },
   {
-    "title": "KEDA",
-    "section": "Kubernetes",
-    "links": [
-      { "label": "github", "url": "https://github.com/Frunza/keda" },
-      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/keda-18826a29d1dd" }
-    ]
-  },
-  {
     "title": "k8s in air-gapped environment",
     "section": "Kubernetes",
     "links": [
@@ -317,6 +309,22 @@
     "links": [
       { "label": "github", "url": "https://github.com/Frunza/devbox" },
       { "label": "Medium", "url": "https://medium.com/@frunzasamuel/devbox-e4a95fd4cf6e" }
+    ]
+  },
+  {
+    "title": "KEDA",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/keda" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/keda-18826a29d1dd" }
+    ]
+  },
+  {
+    "title": "Istio",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/istio" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/istio-ea5499b8241e" }
     ]
   },
   {
