@@ -312,6 +312,14 @@
     ]
   },
   {
+    "title": "Loki",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/loki" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/loki-7293b3077b6d" }
+    ]
+  },
+  {
     "title": "KEDA",
     "section": "Kubernetes",
     "links": [
