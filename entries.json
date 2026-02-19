@@ -312,6 +312,14 @@
     ]
   },
   {
+    "title": "Kyverno",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/kyverno" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/kyverno-ab255530a1a4" }
+    ]
+  },
+  {
     "title": "Loki",
     "section": "Kubernetes",
     "links": [

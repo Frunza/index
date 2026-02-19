@@ -70,6 +70,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - k8s monitoring basics [github](https://github.com/Frunza/k8s-monitoring-basics) [Medium](https://medium.com/@frunzasamuel/k8s-monitoring-basics-9d8354c2f633)
 
+- Kyverno [github](https://github.com/Frunza/kyverno) [Medium](https://medium.com/@frunzasamuel/kyverno-ab255530a1a4)
+
 - Loki [github](https://github.com/Frunza/loki) [Medium](https://medium.com/@frunzasamuel/loki-7293b3077b6d)
 
 - KEDA [github](https://github.com/Frunza/keda) [Medium](https://medium.com/@frunzasamuel/keda-18826a29d1dd)
