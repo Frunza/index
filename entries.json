@@ -212,6 +212,14 @@
     ]
   },
   {
+    "title": "k8s policies",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-policies" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-policies-61b94a4461fa" }
+    ]
+  },
+  {
     "title": "k8s horizontal pod autoscaler",
     "section": "Kubernetes",
     "links": [
@@ -313,7 +321,7 @@
   },
   {
     "title": "Kyverno",
-    "section": "Kubernetes",
+    "section": "Tools",
     "links": [
       { "label": "github", "url": "https://github.com/Frunza/kyverno" },
       { "label": "Medium", "url": "https://medium.com/@frunzasamuel/kyverno-ab255530a1a4" }
@@ -321,7 +329,7 @@
   },
   {
     "title": "Loki",
-    "section": "Kubernetes",
+    "section": "Tools",
     "links": [
       { "label": "github", "url": "https://github.com/Frunza/loki" },
       { "label": "Medium", "url": "https://medium.com/@frunzasamuel/loki-7293b3077b6d" }
@@ -329,7 +337,7 @@
   },
   {
     "title": "KEDA",
-    "section": "Kubernetes",
+    "section": "Tools",
     "links": [
       { "label": "github", "url": "https://github.com/Frunza/keda" },
       { "label": "Medium", "url": "https://medium.com/@frunzasamuel/keda-18826a29d1dd" }

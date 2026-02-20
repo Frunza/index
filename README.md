@@ -64,17 +64,13 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - k8s RBAC basics [github](https://github.com/Frunza/k8s-rbac-basics) [Medium](https://medium.com/@frunzasamuel/k8s-rbac-basics-7e6edce08600)
 
+- k8s policies [github](https://github.com/Frunza/k8s-policies) [Medium](https://medium.com/@frunzasamuel/k8s-policies-61b94a4461fa)
+
 - k8s horizontal pod autoscaler [github](https://github.com/Frunza/k8s-horizontal-pod-autoscaler) [Medium](https://medium.com/@frunzasamuel/k8s-horizontal-pod-autoscaler-8fd545d15ea6)
 
 - k8s in air-gapped environment [github](https://github.com/Frunza/k8s-in-air-gapped-environment) [Medium](https://medium.com/@frunzasamuel/k8s-in-air-gapped-environment-8f20b51aaa2d)
 
 - k8s monitoring basics [github](https://github.com/Frunza/k8s-monitoring-basics) [Medium](https://medium.com/@frunzasamuel/k8s-monitoring-basics-9d8354c2f633)
-
-- Kyverno [github](https://github.com/Frunza/kyverno) [Medium](https://medium.com/@frunzasamuel/kyverno-ab255530a1a4)
-
-- Loki [github](https://github.com/Frunza/loki) [Medium](https://medium.com/@frunzasamuel/loki-7293b3077b6d)
-
-- KEDA [github](https://github.com/Frunza/keda) [Medium](https://medium.com/@frunzasamuel/keda-18826a29d1dd)
 
 ## Azure
 
@@ -101,6 +97,12 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 ## Tools
 
 - Devbox [github](https://github.com/Frunza/devbox) [Medium](https://medium.com/@frunzasamuel/devbox-e4a95fd4cf6e)
+
+- Kyverno [github](https://github.com/Frunza/kyverno) [Medium](https://medium.com/@frunzasamuel/kyverno-ab255530a1a4)
+
+- Loki [github](https://github.com/Frunza/loki) [Medium](https://medium.com/@frunzasamuel/loki-7293b3077b6d)
+
+- KEDA [github](https://github.com/Frunza/keda) [Medium](https://medium.com/@frunzasamuel/keda-18826a29d1dd)
 
 - Istio [github](https://github.com/Frunza/istio) [Medium](https://medium.com/@frunzasamuel/istio-ea5499b8241e)
 
