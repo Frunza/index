@@ -228,6 +228,14 @@
     ]
   },
   {
+    "title": "From ingress-nginx to Gateway API",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/from-nginx-ingress-to-gateway-api" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/from-ingress-nginx-to-gateway-api-3a0ab88f226b" }
+    ]
+  },
+  {
     "title": "k8s in air-gapped environment",
     "section": "Kubernetes",
     "links": [
