@@ -417,6 +417,14 @@
     ]
   },
   {
+    "title": "Fix networking for kind + MetalLB on macOS",
+    "section": "Misc",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/fix-networking-for-kind-and-metallb-on-macos" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/fix-networking-for-kind-metallb-on-macos-64c6e2db0d6b" }
+    ]
+  },
+  {
     "title": "Connect to a MongoDB database running inside a container and query data",
     "section": "Misc",
     "links": [
