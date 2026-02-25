@@ -384,6 +384,14 @@
     ]
   },
   {
+    "title": "mkcert",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/mkcert" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/mkcert-b067e04cccec" }
+    ]
+  },
+  {
     "title": "Harbor replication with Terraform",
     "section": "Tools",
     "links": [

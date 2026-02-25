@@ -114,6 +114,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Enhanced shell [github](https://github.com/Frunza/enhanced-shell) [Medium](https://medium.com/@frunzasamuel/enhanced-shell-e2268fb3e2be)
 
+- mkcert [github](https://github.com/Frunza/mkcert) [Medium](https://medium.com/@frunzasamuel/mkcert-b067e04cccec)
+
 - Harbor replication with Terraform [github](https://github.com/Frunza/harbor-replication-with-terraform) [Medium](https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3)
 
 ## Misc
