@@ -68,6 +68,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - k8s horizontal pod autoscaler [github](https://github.com/Frunza/k8s-horizontal-pod-autoscaler) [Medium](https://medium.com/@frunzasamuel/k8s-horizontal-pod-autoscaler-8fd545d15ea6)
 
+- k8s secrets [github](https://github.com/Frunza/k8s-secrets) [Medium](https://medium.com/@frunzasamuel/k8s-secrets-05c7f33505e5)
+
 - From ingress-nginx to Gateway API [github](https://github.com/Frunza/from-nginx-ingress-to-gateway-api) [Medium](https://medium.com/@frunzasamuel/from-ingress-nginx-to-gateway-api-3a0ab88f226b)
 
 - k8s in air-gapped environment [github](https://github.com/Frunza/k8s-in-air-gapped-environment) [Medium](https://medium.com/@frunzasamuel/k8s-in-air-gapped-environment-8f20b51aaa2d)

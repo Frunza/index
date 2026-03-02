@@ -228,6 +228,14 @@
     ]
   },
   {
+    "title": "k8s secrets",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-secrets" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-secrets-05c7f33505e5" }
+    ]
+  },
+  {
     "title": "From ingress-nginx to Gateway API",
     "section": "Kubernetes",
     "links": [
