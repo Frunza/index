@@ -14,12 +14,13 @@ def check_url(url: str) -> Tuple[str, Optional[int], Optional[str]]:
 
     Returns: (verdict, status_code, info)
       verdict:
-        - "ok"       : reachable (HTTP < 400)
-        - "missing"  : truly broken (HTTP 404 or 410)
-        - "blocked"  : exists but access denied / rate limited (HTTP 403 or 429)
-        - "timeout"  : navigation timed out
-        - "error"    : other errors (DNS, network, etc.)
-        - "bad"      : other HTTP >= 400 (treated as broken)
+        - "ok"         : reachable (HTTP < 400)
+        - "missing"    : truly broken (HTTP 404 or 410)
+        - "blocked"    : exists but access denied / rate limited (HTTP 403 or 429)
+        - "overloaded" : server is temporarily overloaded (HTTP 503)
+        - "timeout"    : navigation timed out
+        - "error"      : other errors (DNS, network, etc.)
+        - "bad"        : other HTTP >= 400 (treated as broken)
     """
     try:
         with sync_playwright() as p:
@@ -74,6 +75,9 @@ def check_url(url: str) -> Tuple[str, Optional[int], Optional[str]]:
             if status in (403, 429):
                 return ("blocked", status, None)
 
+            if status == 503:
+                return ("overloaded", status, None)
+
             # Any other HTTP error code
             return ("bad", status, None)
 
@@ -118,7 +122,7 @@ class TestGenerateReadme(unittest.TestCase):
 
             if verdict == "missing":
                 broken_links.append(f"{item['context']}: {item['url']} (HTTP {status})")
-            elif verdict in ("blocked", "timeout"):
+            elif verdict in ("blocked", "timeout", "overloaded"):
                 # Warn, but do not fail
                 detail = f"HTTP {status}" if status is not None else (info or verdict)
                 warnings.append(f"{item['context']}: {item['url']} ({detail})")
@@ -128,8 +132,7 @@ class TestGenerateReadme(unittest.TestCase):
                 broken_links.append(f"{item['context']}: {item['url']} ({detail})")
 
         if warnings:
-            print(f"\nWARN: {len(warnings)} link(s) could not be verified due to blocking/rate-limit/timeouts:\n"
-                + "\n".join(warnings) + "\n")
+            print(f"\nWARN: {len(warnings)} link(s) could not be verified due to blocking/rate-limit/timeouts/overloads:\n" + "\n".join(warnings) + "\n")
 
         if broken_links:
             self.fail(f"Found {len(broken_links)} broken link(s) (404/410 or other hard errors):\n" + "\n".join(broken_links))
