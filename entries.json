@@ -228,6 +228,14 @@
     ]
   },
   {
+    "title": "k8s ConfigMaps",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-configmaps" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-configmaps-8453548920d7" }
+    ]
+  },
+  {
     "title": "k8s secrets",
     "section": "Kubernetes",
     "links": [
