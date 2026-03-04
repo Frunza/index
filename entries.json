@@ -352,6 +352,14 @@
     ]
   },
   {
+    "title": "Reloader",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/reloader" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/reloader-91b5b5395ab2" }
+    ]
+  },
+  {
     "title": "Loki",
     "section": "Tools",
     "links": [

@@ -106,6 +106,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Kyverno [github](https://github.com/Frunza/kyverno) [Medium](https://medium.com/@frunzasamuel/kyverno-ab255530a1a4)
 
+- Reloader [github](https://github.com/Frunza/reloader) [Medium](https://medium.com/@frunzasamuel/reloader-91b5b5395ab2)
+
 - Loki [github](https://github.com/Frunza/loki) [Medium](https://medium.com/@frunzasamuel/loki-7293b3077b6d)
 
 - KEDA [github](https://github.com/Frunza/keda) [Medium](https://medium.com/@frunzasamuel/keda-18826a29d1dd)
