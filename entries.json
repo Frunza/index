@@ -204,6 +204,14 @@
     ]
   },
   {
+    "title": "k8s Init Containers",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-init-containers" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-init-containers-525329961a3d" }
+    ]
+  },
+  {
     "title": "k8s RBAC basics",
     "section": "Kubernetes",
     "links": [

@@ -62,6 +62,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Test limits and requests in AKS [github](https://github.com/Frunza/test-limits-and-requests-in-aks) [Medium](https://medium.com/@frunzasamuel/test-limits-and-requests-in-aks-b32a8c1ee651)
 
+- k8s Init Containers [github](https://github.com/Frunza/k8s-init-containers) [Medium](https://medium.com/@frunzasamuel/k8s-init-containers-525329961a3d)
+
 - k8s RBAC basics [github](https://github.com/Frunza/k8s-rbac-basics) [Medium](https://medium.com/@frunzasamuel/k8s-rbac-basics-7e6edce08600)
 
 - k8s policies [github](https://github.com/Frunza/k8s-policies) [Medium](https://medium.com/@frunzasamuel/k8s-policies-61b94a4461fa)
