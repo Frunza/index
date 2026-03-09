@@ -132,6 +132,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Unit testing in python [github](https://github.com/Frunza/unit-testing-in-python) [Medium](https://medium.com/@frunzasamuel/unit-testing-in-python-cb831fb515ce)
 
+- GitHub Actions basics [github](https://github.com/Frunza/github-actions-basics) [Medium](https://medium.com/@frunzasamuel/github-actions-basics-f8d19c07d6ee)
+
 - Fix networking for kind + MetalLB on macOS [github](https://github.com/Frunza/fix-networking-for-kind-and-metallb-on-macos) [Medium](https://medium.com/@frunzasamuel/fix-networking-for-kind-metallb-on-macos-64c6e2db0d6b)
 
 - Connect to a MongoDB database running inside a container and query data [github](https://github.com/Frunza/connect-to-a-mongodb-database-running-inside-a-container-and-query-data) [Medium](https://medium.com/@frunzasamuel/connect-to-a-mongodb-database-running-inside-a-container-and-query-data-26987284f5cc)

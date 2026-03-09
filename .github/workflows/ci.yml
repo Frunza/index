@@ -2,8 +2,6 @@ name: CI
 
 on:
   push:
-    branches:
-      - "**"
   pull_request:
 
 jobs:
@@ -14,7 +12,5 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Run tests (Docker + Compose)
-        run: |
-          chmod +x test.sh
-          ./test.sh
+      - name: Run tests
+        run: sh test.sh

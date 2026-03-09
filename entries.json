@@ -449,6 +449,14 @@
     ]
   },
   {
+    "title": "GitHub Actions basics",
+    "section": "Misc",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/github-actions-basics" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/github-actions-basics-f8d19c07d6ee" }
+    ]
+  },
+  {
     "title": "Fix networking for kind + MetalLB on macOS",
     "section": "Misc",
     "links": [
