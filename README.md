@@ -64,6 +64,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - k8s Init Containers [github](https://github.com/Frunza/k8s-init-containers) [Medium](https://medium.com/@frunzasamuel/k8s-init-containers-525329961a3d)
 
+- k8s Sidecar Containers [github](https://github.com/Frunza/k8s-sidecar-containers) [Medium](https://medium.com/@frunzasamuel/k8s-sidecar-containers-c842c7bd44c0)
+
 - k8s RBAC basics [github](https://github.com/Frunza/k8s-rbac-basics) [Medium](https://medium.com/@frunzasamuel/k8s-rbac-basics-7e6edce08600)
 
 - k8s policies [github](https://github.com/Frunza/k8s-policies) [Medium](https://medium.com/@frunzasamuel/k8s-policies-61b94a4461fa)

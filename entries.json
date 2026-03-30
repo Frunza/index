@@ -212,6 +212,14 @@
     ]
   },
   {
+    "title": "k8s Sidecar Containers",
+    "section": "Kubernetes",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/k8s-sidecar-containers" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/k8s-sidecar-containers-c842c7bd44c0" }
+    ]
+  },
+  {
     "title": "k8s RBAC basics",
     "section": "Kubernetes",
     "links": [
