@@ -90,6 +90,14 @@
     ]
   },
   {
+    "title": "Ansible group_vars",
+    "section": "Ansible",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/ansible-group_vars" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/ansible-group-vars-a04b484e01f5" }
+    ]
+  },
+  {
     "title": "Ansible volume mounts",
     "section": "Ansible",
     "links": [

@@ -30,6 +30,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Ansible variables [github](https://github.com/Frunza/ansible-variables) [Medium](https://medium.com/@frunzasamuel/ansible-variables-aa8640dd3b33)
 
+- Ansible group_vars [github](https://github.com/Frunza/ansible-group_vars) [Medium](https://medium.com/@frunzasamuel/ansible-group-vars-a04b484e01f5)
+
 - Ansible volume mounts [github](https://github.com/Frunza/ansible-volume-mounts) [Medium](https://medium.com/@frunzasamuel/ansible-volume-mounts-98079929df68)
 
 - Pin Ansible roles and collections [github](https://github.com/Frunza/pin-ansible-roles-and-collections) [Medium](https://medium.com/@frunzasamuel/pin-ansible-roles-and-collections-e8d123300388)
