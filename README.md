@@ -130,6 +130,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Harbor replication with Terraform [github](https://github.com/Frunza/harbor-replication-with-terraform) [Medium](https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3)
 
+- Nginx as webserver and router via Ansible [github](https://github.com/Frunza/nginx-as-webserver-and-router-via-ansible) [Medium](https://medium.com/@frunzasamuel/nginx-as-webserver-and-router-via-ansible-5da9d8c0c97e)
+
 - Setup Cosign via Ansible [github](https://github.com/Frunza/setup-cosign-via-ansible) [Medium](https://medium.com/@frunzasamuel/setup-cosign-via-ansible-2967b8ad7ee0)
 
 - Basic RKE2 setup via Ansible [github](https://github.com/Frunza/basic-rke2-setup-via-ansible) [Medium](https://medium.com/@frunzasamuel/basic-rke2-setup-via-ansible-0c6a66de9be8)

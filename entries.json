@@ -448,6 +448,14 @@
     ]
   },
   {
+    "title": "Nginx as webserver and router via Ansible",
+    "section": "Tools",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/nginx-as-webserver-and-router-via-ansible" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/nginx-as-webserver-and-router-via-ansible-5da9d8c0c97e" }
+    ]
+  },
+  {
     "title": "Setup Cosign via Ansible",
     "section": "Tools",
     "links": [
