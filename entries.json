@@ -31,6 +31,14 @@
       { "label": "Medium", "url": "https://medium.com/@frunzasamuel/docker-multistage-builds-2edf677287d1" }
     ]
   },
+  {
+    "title": "Setup Docker via Ansible",
+    "section": "Docker",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/setup-docker-via-ansible" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/setup-docker-via-ansible-14f1007f060e" }
+    ]
+  },
 
   {
     "title": "Scripting in .gitlab-ci.yml",

@@ -12,6 +12,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Docker multistage builds [github](https://github.com/Frunza/docker-multistage-builds) [Medium](https://medium.com/@frunzasamuel/docker-multistage-builds-2edf677287d1)
 
+- Setup Docker via Ansible [github](https://github.com/Frunza/setup-docker-via-ansible) [Medium](https://medium.com/@frunzasamuel/setup-docker-via-ansible-14f1007f060e)
+
 ## GitLab CI
 
 - Scripting in .gitlab-ci.yml [github](https://github.com/Frunza/scripting-in-gitlab-ci.yml) [Medium](https://medium.com/@frunzasamuel/scripting-in-gitlab-ci-yml-2778049b8d49)
