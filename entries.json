@@ -41,6 +41,14 @@
   },
 
   {
+    "title": "Setup GitLab via Docker and Ansible",
+    "section": "GitLab CI",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/setup-gitlab-via-docker-and-ansible" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/setup-gitlab-via-docker-and-ansible-51bd35ba7a57" }
+    ]
+  },
+  {
     "title": "Scripting in .gitlab-ci.yml",
     "section": "GitLab CI",
     "links": [
