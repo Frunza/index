@@ -49,6 +49,14 @@
     ]
   },
   {
+    "title": "Setup GitLab runners as IaC",
+    "section": "GitLab CI",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/setup-gitlab-runners-as-iac" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/setup-gitlab-runners-as-iac-1e5322869ee5" }
+    ]
+  },
+  {
     "title": "Scripting in .gitlab-ci.yml",
     "section": "GitLab CI",
     "links": [

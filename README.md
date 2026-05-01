@@ -18,6 +18,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Setup GitLab via Docker and Ansible [github](https://github.com/Frunza/setup-gitlab-via-docker-and-ansible) [Medium](https://medium.com/@frunzasamuel/setup-gitlab-via-docker-and-ansible-51bd35ba7a57)
 
+- Setup GitLab runners as IaC [github](https://github.com/Frunza/setup-gitlab-runners-as-iac) [Medium](https://medium.com/@frunzasamuel/setup-gitlab-runners-as-iac-1e5322869ee5)
+
 - Scripting in .gitlab-ci.yml [github](https://github.com/Frunza/scripting-in-gitlab-ci.yml) [Medium](https://medium.com/@frunzasamuel/scripting-in-gitlab-ci-yml-2778049b8d49)
 
 - Run GitLab jobs with updated syntax for deprecated only/except [github](https://github.com/Frunza/run-gitlab-jobs-with-updated-syntax-for-deprecated-only-except) [Medium](https://medium.com/@frunzasamuel/run-gitlab-jobs-with-updated-syntax-for-deprecated-only-except-e40cb6be5f96)
