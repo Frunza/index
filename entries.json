@@ -383,6 +383,24 @@
     ]
   },
 
+
+  {
+    "title": "Setup Harbor via Docker and Ansible",
+    "section": "Harbor",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/setup-harbor-via-ansible" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/setup-harbor-via-docker-and-ansible-cde2905b71e2" }
+    ]
+  },
+  {
+    "title": "Harbor replication with Terraform",
+    "section": "Harbor",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/harbor-replication-with-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3" }
+    ]
+  },
+
   {
     "title": "Devbox",
     "section": "Tools",
@@ -461,14 +479,6 @@
     "links": [
       { "label": "github", "url": "https://github.com/Frunza/mkcert" },
       { "label": "Medium", "url": "https://medium.com/@frunzasamuel/mkcert-b067e04cccec" }
-    ]
-  },
-  {
-    "title": "Harbor replication with Terraform",
-    "section": "Tools",
-    "links": [
-      { "label": "github", "url": "https://github.com/Frunza/harbor-replication-with-terraform" },
-      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3" }
     ]
   },
   {

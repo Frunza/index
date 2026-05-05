@@ -28,6 +28,7 @@ SECTION_ORDER: List[str] = [
     "Azure",
     "Security",
     "AWS",
+    "Harbor",
     "Tools",
     "Misc",
 ]

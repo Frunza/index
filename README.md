@@ -112,6 +112,12 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Simple way to store Terraform state files in AWS s3 [github](https://github.com/Frunza/simple-way-to-store-terraform-state-files-in-aws-s3) [Medium](https://medium.com/@frunzasamuel/simple-way-to-store-terraform-state-files-in-aws-s3-96a92fac5e88)
 
+## Harbor
+
+- Setup Harbor via Docker and Ansible [github](https://github.com/Frunza/setup-harbor-via-ansible) [Medium](https://medium.com/@frunzasamuel/setup-harbor-via-docker-and-ansible-cde2905b71e2)
+
+- Harbor replication with Terraform [github](https://github.com/Frunza/harbor-replication-with-terraform) [Medium](https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3)
+
 ## Tools
 
 - Devbox [github](https://github.com/Frunza/devbox) [Medium](https://medium.com/@frunzasamuel/devbox-e4a95fd4cf6e)
@@ -133,8 +139,6 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 - Enhanced shell [github](https://github.com/Frunza/enhanced-shell) [Medium](https://medium.com/@frunzasamuel/enhanced-shell-e2268fb3e2be)
 
 - mkcert [github](https://github.com/Frunza/mkcert) [Medium](https://medium.com/@frunzasamuel/mkcert-b067e04cccec)
-
-- Harbor replication with Terraform [github](https://github.com/Frunza/harbor-replication-with-terraform) [Medium](https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3)
 
 - Nginx as webserver and router via Ansible [github](https://github.com/Frunza/nginx-as-webserver-and-router-via-ansible) [Medium](https://medium.com/@frunzasamuel/nginx-as-webserver-and-router-via-ansible-5da9d8c0c97e)
 
