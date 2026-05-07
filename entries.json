@@ -393,6 +393,14 @@
     ]
   },
   {
+    "title": "Harbor robot accounts with Terraform",
+    "section": "Harbor",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/harbor-robot-accounts-with-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/harbor-robot-accounts-with-terraform-629899a7f793" }
+    ]
+  },
+  {
     "title": "Harbor replication with Terraform",
     "section": "Harbor",
     "links": [

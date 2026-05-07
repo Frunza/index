@@ -116,6 +116,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 - Setup Harbor via Docker and Ansible [github](https://github.com/Frunza/setup-harbor-via-ansible) [Medium](https://medium.com/@frunzasamuel/setup-harbor-via-docker-and-ansible-cde2905b71e2)
 
+- Harbor robot accounts with Terraform [github](https://github.com/Frunza/harbor-robot-accounts-with-terraform) [Medium](https://medium.com/@frunzasamuel/harbor-robot-accounts-with-terraform-629899a7f793)
+
 - Harbor replication with Terraform [github](https://github.com/Frunza/harbor-replication-with-terraform) [Medium](https://medium.com/@frunzasamuel/harbor-replication-with-terraform-3181cfa8a5e3)
 
 ## Tools
