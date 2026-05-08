@@ -44,6 +44,8 @@ Where possible, repositories run in containers and use `infrastructure as code` 
 
 ## Terraform
 
+- Add dry run to Terraform [github](https://github.com/Frunza/add-dry-run-to-terraform) [Medium](https://medium.com/@frunzasamuel/add-dry-run-to-terraform-9ffbb1eb2ffc)
+
 - Configure Docker container with Terraform [github](https://github.com/Frunza/configure-docker-container-with-terraform) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-cbc1a36d97e0)
 
 - Configure docker container with Terraform and volume mount [github](https://github.com/Frunza/configure-docker-container-with-terraform-and-volume-mount) [Medium](https://medium.com/@frunzasamuel/configure-docker-container-with-terraform-and-volume-mount-112db3b7cdf3)

@@ -139,6 +139,14 @@
   },
 
   {
+    "title": "Add dry run to Terraform",
+    "section": "Terraform",
+    "links": [
+      { "label": "github", "url": "https://github.com/Frunza/add-dry-run-to-terraform" },
+      { "label": "Medium", "url": "https://medium.com/@frunzasamuel/add-dry-run-to-terraform-9ffbb1eb2ffc" }
+    ]
+  },
+  {
     "title": "Configure Docker container with Terraform",
     "section": "Terraform",
     "links": [
